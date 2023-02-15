@@ -1,0 +1,92 @@
+#div1{
+    border: 1px solid rgba(121, 121, 121, 0.4);
+    width: 400px;
+    background-color: white;
+        height:400px;
+}
+#div2{
+    border: 1px solid rgba(121, 121, 121, 0.4);
+    width: 400px;
+    background-color: white;
+        height:20px;
+
+}
+#sign{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    float: left;
+    padding-left: 30px;
+
+}
+#e{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    float: left;
+    padding-left: 30px;
+}
+#i1{
+    width:250px;
+    height:20px;
+    float:left;
+    margin-left: 30px;
+    border-radius: 5px;
+    padding: 5px;
+    border-color: rgba(246, 181, 59, 0.551);
+}
+#i2{
+    width:259px;
+    height:30px;
+    background-image: linear-gradient(rgb(247, 225, 84),rgb(251, 188, 70));
+    float:left;
+    margin-left: 30px;
+    border: 1px solid rgba(121, 121, 121, 0.496);
+    margin-top: 15px;
+    border-radius: 5px;
+
+}
+#i2:hover{
+    background-color: rgba(239, 161, 16, 0.455);
+}
+#st{
+    font-size: 12px;
+    color: black;
+    float:left; 
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#help{
+    font-size: 12px;
+    color: black;
+    float:left; 
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    
+}
+#st1{
+    font-size: 12px;
+    color: rgb(79, 149, 255);
+    margin-right: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    float: left;
+    margin-left: 30px;
+    overflow: hidden;
+    font-weight: bold;
+}
+#st1:hover{
+    overflow: visible;
+}
+ul{
+    font-size: 12px;
+    color: black;
+    margin-right: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 30px;
+    list-style-type: none;
+    text-decoration: none;
+
+}

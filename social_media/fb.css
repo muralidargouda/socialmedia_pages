@@ -1,0 +1,54 @@
+#Apage{
+background-color: rgb(240, 240, 253);
+display: flex;
+}
+.B{
+    background-color: rgb(255, 255, 255);
+     margin-top: 130px;
+     margin-bottom: 120px;
+     border-radius: 15px;
+
+
+}
+.A{
+    padding-left: 120px;
+    padding-top: 190px;
+      margin-bottom: 90px;
+      margin-right: 20px;
+}
+.pn{
+    padding: 20px;
+     width: 330px;
+    margin-top: 20px;
+     margin-left: 20px;
+     margin-right: 20px;
+     border-radius: 5px;
+  
+}
+.log{
+    font-size: 18px;
+    font-weight: bold;
+    background-color: blue;
+    color: aliceblue;
+    padding: 15px;
+    width: 375px;
+    margin: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+   }
+
+
+p1{
+    font-size: 60px;
+color: rgb(39, 39, 248);
+font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p2{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p3{
+    color: rgb(39, 39, 248);
+}
